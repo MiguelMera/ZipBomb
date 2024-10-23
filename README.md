@@ -10,6 +10,7 @@ This is a small script written in Python which generates such a zip bomb.
 
 ## Usage
 `zipbomb.py n_levels out_zip_file`
+ehe
 
 ## Sample Run
 
